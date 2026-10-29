@@ -1,0 +1,22 @@
+{
+  "name": "world-of-warships-fleet-toolkit",
+  "displayName": "World of Warships Fleet Toolkit",
+  "programType": "fleet-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Ship categories",
+    "Equipment notes",
+    "Session records"
+  ],
+  "topics": [
+    "world-of-warships-fleet-toolkit",
+    "world-of-warships-tools",
+    "world-of-warships-menu",
+    "world-of-warships-settings",
+    "world-of-warships-configs",
+    "world-of-warships-ship-categories",
+    "world-of-warships-equipment-notes"
+  ]
+}
