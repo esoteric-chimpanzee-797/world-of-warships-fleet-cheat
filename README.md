@@ -47,3 +47,4 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 World of Warships Fleet Toolkit · Program documentation and download information.
+                                                                                                    
